@@ -1,0 +1,1 @@
+This is Stride first git project!
